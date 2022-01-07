@@ -1,0 +1,17 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": "https://github.com/furkanalptokac/qrcode.git",
+  "author": "Furkan Alp Tokaç <furkanalptokac@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "qrcode": "^1.5.0"
+  }
+}
